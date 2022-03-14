@@ -1,1 +1,3 @@
-# concessao-cartaoCredito-exercicio
+Exercício com base de dados do kaggle
+
+# concessao-cartaoCredito
